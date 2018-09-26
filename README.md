@@ -1,6 +1,6 @@
 <body background="11.jpg" > 
 <a href="top"></a>
-<h1><center>个人简历</center></h1>
+<h1><center>苗振忠-Web前端开发工程师</center></h1>
 <table align="center" width="750" height="1500" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="250" rowspan="2" background="22.jpg"></td>
@@ -14,46 +14,43 @@
 </td>
 </tr>
 <tr>
-<td rowspan="9" bgcolor="#CCCCCC"><font color="#000000" face="华文行楷" size="+2"><i>姓名：  糖豆豆<br /><br />
+<td rowspan="9" bgcolor="#CCCCCC"><font color="#000000" face="华文行楷" size="+2"><i>姓名：  苗振忠<br /><br />
 性别：男<br /><br />
-出生日期：1992.11.11<br /><br />
-入学日期：2011.09.10<br /><br />
-政治面貌：共青团员<br /><br />
-籍贯：山东省青青县<br /><br />
-家庭住址：山东省淄博市青青县里里镇庄庄村<br /><br />
+年龄：25<br /><br />
 学历：本科<br /><br />
-专业：统计学<br /><br />
-级别：大四<br /><br />
+政治面貌：共青团员<br /><br />
+籍贯：河北邯郸<br /><br />
+毕业院校：邯郸学院<br /><br />
+专业：嵌入式系统工程<br /><br />
 身体状况：健康<br /><br />
 婚姻状况：未婚<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-联系方式：<br /><br />
-手机：187*******9<br /><br />
-QQ：878787878<br /><br />
-邮箱：878787878@qq.com<br /><br />
-博客名：<a href="http://www.cnblogs.com/H2921306656/" target="_blank">这都不是事</a>
+手机：15652380707<br /><br />
+QQ：1635235014<br /><br />
+邮箱：miaozhenzhong@sina.com<br /><br />
+博客名：<a href="https://blog.csdn.net/miaozhenzhong/" target="_blank">圆静居士的博客</a>
 </i>
 </font>
 </td>
 <td><font face="华文隶书" size="+2"><b>【任职情况】</b><br />
-⊙2011.9至今    宿舍舍长<br />
-⊙2012.10    系学生会办公室主任<br />
+⊙2014.09 校级三好学生<br />
+⊙2015.10 校级三好学生<br />
 </font>
 </td>
 </tr>
 <tr>
 <td><font face="华文隶书" size="+2"><b>【奖励情况】</b><br />
-⊙2011-2012学年校优秀学生、优秀团员，校一等奖学金：<br />
- ⊙2012-2013学年校优秀学生、系优秀团员，校一等奖学金：<br /> 
-⊙2013年全国大学生数学建模竞赛省二等奖;<br />
-⊙2011-2012学年宿舍获得校文明宿舍、温馨宿舍。<br />
+⊙2013-2014学年校优秀学生、优秀团员，校一等奖学金：<br />
+ ⊙2015-2016学年校优秀学生、系优秀团员，校一等奖学金：<br /> 
+⊙2015年全国大学生数学建模竞赛省二等奖;<br />
+⊙2014-2015学年宿舍获得校文明宿舍、温馨宿舍。<br />
 </font>
 </td>
 </tr>
 <tr>
 <td><font face="华文隶书" size="+2"><b>【参加的大型活动】</b><br />
-⊙2013年全国大学生数学建模比赛<br />
-⊙2011年校消防运动会<br />
-⊙2013年全国大学生创新创业竞赛<br />
+⊙2015年全国大学生数学建模比赛<br />
+⊙2015年校消防运动会<br />
+⊙2015年全国大学生创新创业竞赛<br />
 </font>
 </td>
 </tr>
