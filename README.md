@@ -1,11 +1,3 @@
-<title>王绚浩</title>
-<style type="text/css">
-body,td,th {
-    font-size: 16px;
-    color: #000;
-}
-</style>
-
 <body>
 <center>
   <p><b>个人简历</b></p>
