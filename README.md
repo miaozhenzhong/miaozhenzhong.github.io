@@ -5,7 +5,6 @@ body,td,th {
     color: #000;
 }
 </style>
-</head>
 
 <body>
 <center>
