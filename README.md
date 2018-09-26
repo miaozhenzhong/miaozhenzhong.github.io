@@ -1,37 +1,99 @@
-## 苗振忠
+<title>王绚浩</title>
+<style type="text/css">
+body,td,th {
+    font-size: 16px;
+    color: #000;
+}
+</style>
+</head>
 
-You can use the [editor on GitHub](https://github.com/miaozhenzhong/miaozhenzhong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<center>
+  <p><b>个人简历</b></p>
+  <table cellpadding="0" cellspacing="0" border="1">
+    <tr>
+      <td width="64" height="33">姓名</td>
+      <td width="109">王绚浩</td>
+      <td width="73">性别</td>
+      <td width="46">男</td>
+      <td width="112">民族</td>
+      <td width="159">汉族</td>
+      <td width="154" rowspan="4"><p ><img src="3c1dd7d958c7dc47a2b707e8a72b5e64.jpg" width="154" height="203" /></p></td>
+    </tr>
+    <tr>
+      <td height="31">身高</td>
+      <td>177cm</td>
+      <td>体重</td>
+      <td>60kg</td>
+      <td>政治面貌</td>
+      <td>团员</td>
+    </tr>
+    <tr>
+      <td height="31">学制</td>
+      <td>三年制</td>
+      <td>学历</td>
+      <td>专科</td>
+      <td>毕业时间</td>
+      <td>2016.07</td>
+    </tr>
+    <tr>
+      <td height="46">户籍</td>
+      <td colspan="3">山东省淄博市高青县</td>
+      <td>出生年月</td>
+      <td>1995.0403</td>
+    </tr>
+    <tr>
+      <td height="39">专业</td>
+      <td>建筑经济管理</td>
+      <td>毕业学校</td>
+      <td colspan="2">山东城市建设职业学院</td>
+      <td>就业范围</td>
+      <td>全国</td>
+    </tr>
+    <tr>
+      <td height="39">外语水平</td>
+      <td colspan="3"><p>读写熟练，简单日常交流。</p></td>
+      <td>计算机水平</td>
+      <td colspan="2"><p >熟练使用Office、WPS、PPT等办公软件</p></td>
+    </tr>
+    <tr>
+      <td><p >奖励情况</p></td>
+      <td colspan="6"><p >担任飞翔合唱团13级负责人 </p>
+        <p >2014年3月获得山东&#8220;青歌赛&#8221;民族业余组一等奖。 </p>
+        <p >2014年3月获得山东&#8220;青歌赛&#8221;民族业余组二等奖。 </p>
+        <p >2014年7月获得全国大学生艺术展演声乐类三等奖， </p>
+      <p >2014年7月获得山东省大学生艺术展演声乐类一等奖。 </p></td>
+    </tr>
+    <tr>
+      <td><p >通讯地址</p></td>
+      <td colspan="4"><p >山东省淄博市高青县芦湖小区8号楼1单元102室</p></td>
+      <td><p >联系电话</p></td>
+      <td><p >18606387520</p></td>
+    </tr>
+    <tr>
+      <td><p >E-mail</p></td>
+      <td colspan="3"><p >505123914@qq.com</p></td>
+      <td>邮编</td>
+      <td>256300</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="28" colspan="7">教育经历</td>
+    </tr>
+    <tr>
+      <td colspan="7"><p >2010年9月至2013年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;山东省高青一中</p></td>
+    </tr>
+    <tr>
+      <td colspan="7"><p >2013年9月至2016年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;山东城市建设职业学院</p></td>
+     </tr>
+    <tr>
+      <td colspan="4">个人博客</td>
+      <td colspan="3"><a href="http://home.cnblogs.com/u/mantou1314/">http://home.cnblogs.com/u/mantou1314/</a></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  
+</center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miaozhenzhong/miaozhenzhong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
