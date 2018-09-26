@@ -1,4 +1,3 @@
-<html>
 <a href="top"></a>
 <h1><center>苗振忠-Web前端开发工程师</center></h1>
 <table align="center" width="750" height="1500" border="0" cellpadding="0" cellspacing="0">
@@ -8,8 +7,8 @@
 </tr>
 <tr>
 <td><font face="华文隶书" size="+2"><b>【教育/培训经历】</b><br />
-⊙2011.9-2015.6   坡来干学校   本科<br />
-⊙2012.10-2012.11   创业培训
+⊙2013.09-2017.07   邯郸学院 本科
+ ⊙2017.07-2017.12   尚硅谷
 </font>
 </td>
 </tr>
@@ -100,5 +99,3 @@ QQ：1635235014<br /><br />
 
 </table>
 <a href="#top">返回顶端</a>
-</body>
-</html>
