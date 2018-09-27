@@ -1,5 +1,126 @@
-<!DOCTYPE html><html>  <head>     <title>个人简历</title>     <meta charset=UTF-8 />     <style type=text/css>   /*声明其内容为标准的css*/       *{          margin: 0;          padding: 0;          border: none;          font-size: 12px;        }  /*”*“为通配符选择器，将所有的元素设置为外边距margin和内边距padding为0，无边框，字体大小为12像素*/            #resume{          width: 800px;          margin: 0 auto;   /*外边距上下为0，左右自适应，为了使DIV在浏览器中水平居中*/          border: solid 1px #DCDDDF;        }       #resume .one{          background: url(beijing.jpg);          width: 800px;          height: 90px;          font-size: 30px;          color: red;          font-weight: bold; /*定义粗体字符*/          text-align: center;          margin-bottom: 0; /*下外边框设置为0*/          line-height: 90px;        }		       #resume ul{          width: 780px;          margin-left: 13px;          margin-top: 20px;        }       #resume ul li{          font-size: 20px;          background: url(li.png) no-repeat;/*设置图片不重复*/          list-style: none;          text-indent: 2em; /*规定文本块中首行文字的缩进，em为相对单位*/          line-height: 30px;   /*行间距离为30像素*/          margin-bottom: 20px;          border-bottom: 1px solid #DCDDDF;        }       #resume ul li.none1{          border-bottom: none;  /*将id为resume中的ul 且class为none1的li去掉下边框*/        }       #resume ul li p{          font-size: 15px;        }  /*将id为resume中的ul li 下的p标签的字体设置为15像素*/     </style></head><body>    <div id="resume">     <div class="one">个人简历</div>     <ul>       <li>个人信息         <p>           姓名：李明;           性别：男;           籍贯：山东聊城;           年龄: 23;         </p>         <p>           手机：134xxxxxxxx;           学校：XXXX大学;           专业：XXXXXX;           学历：XX;         </p>       </li>       <li>教育背景         <p>           2012.9-2016.6: XXXX大学XXX专业         </p>         <p>           在这里学习到了……         </p>       </li>       <li>社会经历         <p>           2015.7-2016.5: xxx公司xxx岗位实习         </p>         <p>           工作内容……         </p>       </li>       <li>专业技能         <p>           考取了XXX证书……获奖情况……         </p>       </li>       <li>相关资格证书         <p>计算机证书</p>         <p>教师资格证书</p>         <p>营养师证书</p>         <p>英语竞赛证书</p>       </li>       <li class="none1">自我评价         <p>           中肯、客观的自我评定……         </p>       </li>     </ul>    </div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一份简历</title>
+</head>
+<body>
+<table width="700" height="542" border="1" background="images/resume.jpg" align="center">
+    <caption><h3>个人简历</h3></caption>
+    <tr>
+        <td width="92">姓名:</td>
+        <td width="100">张三</td>
+        <td width="89">出生日期:</td>
+        <td width="113">2017年4月20日</td>
+        <td width="91">性别:</td>
+        <td width="48">男</td>
+        <td width="121" rowspan="5" background="images/pic.jpg"></td>
+    </tr>
+    <tr>
+        <td>身份证:</td>
+        <td>XXX</td>
+        <td>户口:</td>
+        <td>吉林省长春市</td>
+        <td>未婚状况:</td>
+        <td>未婚</td>
+    </tr>
+    <tr>
+        <td>学历:</td>
+        <td>本科</td>
+        <td>身高:</td>
+        <td>175cm</td>
+        <td>体重:</td>
+        <td>60kg</td>
+    </tr>
+    <tr>
+        <td>专业:</td>
+        <td>计算机科学与技术</td>
+        <td>身高:</td>
+        <td>汉</td>
+        <td>政治面貌</td>
+        <td>团员</td>
+    </tr>
+    <tr>
+        <td height="24" colspan="2">家庭住址:</td>
+        <td colspan="4">吉林省长春市</td>
+    </tr>
+    <tr>
+        <td>手机号码:</td>
+        <td colspan="2">138********</td>
+        <td>个人主页:</td>
+        <td colspan="3">XXXXXX</td>
+    </tr>
+    <tr>
+        <td>固定电话:</td>
+        <td colspan="2">0431-********</td>
+        <td>电子信箱:</td>
+        <td colspan="3">***@**.com</td>
+    </tr>
+    <tr height="100">
+        <td>教育经历:</td>
+       <td colspan="6">
+           小学............<br/>
+           初中............<br/>
+           高中............<br/>
+           大学............<br/>
+       </td>
+    </tr>
+    <tr>
+        <td>外语水平:</td>
+        <td colspan="6">外语语种:英语&nbsp;&nbsp;掌握程度:良好&nbsp;&nbsp;口语能力:一般&nbsp;&nbsp;考级:四级</td>
+    </tr>
+    <tr>
+        <td colspan="7" align="center"><b>工作经历</b></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2">工作时间</td>
+        <td colspan="2">工作单位</td>
+        <td colspan="2">工作职位</td>
+    </tr>
+    <tr>
+        <td colspan="2">2016-2017</td>
+        <td colspan="2">吉林省明日科技有限公司</td>
+        <td colspan="2">Java程序员</td>
+    </tr>
+    <tr height="100">
+        <td>工作描述:</td>
+        <td colspan="7">根据自己的实际情况填写</td>
+    </tr>
+    <tr>
+        <td colspan="7" align="center"><b>项目经验</b></td>
+    </tr>
+    <tr>
+        <td colspan="7" height="100">根据自己的实际情况填写</td>
+    </tr>
+    <tr>
+        <td colspan="7" align="center"><b>自我评价</b></td>
+    </tr>
+    <tr>
+        <td colspan="7" height="700">
+            能吃苦耐劳，对待工作，学习，人生积极乐观。有坚毅的性格和强烈的责任心，集体荣誉感强
+            诚实守信，具有团队协作能力，创新意识<br/>
 
----------------------
-
-本文来自 恒子悠悠 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/beyond9305/article/details/78170050?utm_source=copy 
+        </td>
+    </tr>
+    <tr>
+        <td colspan="7" align="center"><b>求职意向</b></td>
+    </tr>
+    <tr>
+        <td>工作地点:</td>
+        <td colspan="6">广州市</td>
+    </tr>
+    <tr>
+        <td>意向行业:</td>
+        <td colspan="6">计算机/互联网/通信/电子</td>
+    </tr>
+    <tr>
+        <td>意向岗位:</td>
+        <td colspan="6">本专业相关或相近的工作职位</td>
+    </tr>
+    <tr>
+        <td>工作要求:</td>
+        <td colspan="6">面议</td>
+    </tr>
+</table>
+</body>
+</html>
