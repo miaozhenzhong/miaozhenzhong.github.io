@@ -35,7 +35,7 @@ QQ：1635235014<br /><br />
 ⊙ 熟练运用浏览器兼容技术，熟练进行前端性能优化设计<br />
 ⊙ 熟练掌握HTML5技术开发，熟悉响应式布局和弹性盒布局，百分比自适应布局，熟练掌握CSS3动画技术，且能熟练应用Animate.css动画库。<br />
 ⊙ 熟练使用HTML5新特性canvas，LocalStorage，Sessionstorage，video，audio等开发项目以及基于HTML5的微信场景开发<br />
-⊙ 熟悉掌握基于HTML5的webApp开发以及各种手机移动端适配，熟悉ECMA标准，熟练掌握DOM、BOM操作，熟悉闭包原理，熟悉面向对象JS编程，理解原型链的继承机制。<br />
+⊙ 熟悉掌握基于HTML5的webApp开发以及各种手机移动端适配，熟悉ECMA标准，熟练掌握DOM、BOM操作，熟悉闭包原理，熟悉面向对象JS编程<br />
 ⊙ 熟练使用jQuery框架，掌握jQuery与DOM操作及事件处理，了解动态绑定事件的原理，掌握动画的处理。<br />
 ⊙ 熟悉使用Zepto、Swiper、iScroll、Touch、BootStrap了解sea.js、vue.js,Require.js、等流行框架<br />
 ⊙ 掌握Css类库Sass技术、Less技术、Gulp构建化工具，了解node.js,react.js,angular.js以及MVC&amp;MVVM设计模式与模块化开发流程。r />
