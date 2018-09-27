@@ -5,6 +5,10 @@
 <td width="250" rowspan="2" background="22.jpg"></td>
 <td width="500"><font face="华文隶书" size="+2"><b>【现单位】</b>百度网讯科技有限公司</font></td>
 </tr>
+ <tr>
+<td width="250" rowspan="2" background="22.jpg"></td>
+<td width="500"><font face="华文隶书" size="+2"><b>【现单位】</b>百度网讯科技有限公司</font></td>
+</tr>
 <tr>
 <td><font face="华文隶书" size="+2"><b>【教育/培训经历】</b><br />
 ⊙2013.09-2017.07   邯郸学院 本科
