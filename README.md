@@ -1,6 +1,4 @@
-<a href="top"></a>
 <h1><center>苗振忠-Web前端开发工程师</center></h1>
-<table align="center" width="750" height="1500" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="250" rowspan="2" background="22.jpg"></td>
 <td width="500"><font face="华文隶书" size="+2"><b>【现单位】</b>百度网讯科技有限公司</font></td>
@@ -93,5 +91,4 @@ QQ：1635235014<br /><br />
 <tr>
 <td align="right" valign="bottom"><font face="华文隶书" size="+1">（简历到此结束，感谢您阅览，祝您心情愉快！）</font></td>
 </tr><br />
-</table>
 <a href="#top">返回顶端</a>
