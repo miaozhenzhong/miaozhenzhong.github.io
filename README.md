@@ -30,26 +30,36 @@ QQ：1635235014<br /><br />
 </i>
 </font>
 </td>
-<td><font face="华文隶书" size="+2"><b>【任职情况】</b><br />
-⊙2014.09 校级三好学生<br />
-⊙2015.10 校级三好学生<br />
+<td><font face="华文隶书" size="+2"><b>【专业技能】</b><br />
+⊙ 精通DIV+CSS页面布局，重构,掌握JavaScript，熟悉w3c标准，了解HTML语义化有一定的了解。<br />
+⊙ 熟练运用浏览器兼容技术，熟练进行前端性能优化设计<br />
+⊙ 熟练掌握HTML5技术开发，熟悉响应式布局和弹性盒布局，百分比自适应布局，熟练掌握CSS3动画技术，且能熟练应用Animate.css动画库。<br />
+⊙ 熟练使用HTML5新特性canvas，LocalStorage，Sessionstorage，video，audio等开发项目以及基于HTML5的微信场景开发<br />
+⊙ 熟悉掌握基于HTML5的webApp开发以及各种手机移动端适配，熟悉ECMA标准，熟练掌握DOM、BOM操作，熟悉闭包原理，熟悉面向对象JS编程，理解原型链的继承机制。<br />
+⊙ 熟练使用jQuery框架，掌握jQuery与DOM操作及事件处理，了解动态绑定事件的原理，掌握动画的处理。<br />
+⊙ 熟悉使用Zepto、Swiper、iScroll、Touch、BootStrap了解sea.js、vue.js,Require.js、等流行框架<br />
+⊙ 掌握Css类库Sass技术、Less技术、Gulp构建化工具，了解node.js,react.js,angular.js以及MVC&amp;MVVM设计模式与模块化开发流程。r />
+⊙ 熟练使用HBuilder，nodepad++，Sublime，Photoshop，Dreamwaver，Fireworks等相关开发工具，熟悉Git版本管理，熟练webpack，babel等编译工具<br />
+⊙ 熟练运用浏览器兼容技术，熟练进行前端性能优化设计<br />
+⊙ 熟练运用浏览器兼容技术，熟练进行前端性能优化设计<br />
+⊙ 熟练运用浏览器兼容技术，熟练进行前端性能优化设计<br />
 </font>
 </td>
 </tr>
 <tr>
+ <tr>
+<td><font face="华文隶书" size="+2"><b>【参加的大型活动】</b><br />
+⊙2015年全国大学生数学建模比赛<br />
+⊙2015年校消防运动会<br />
+⊙2015年全国大学生创新创业竞赛<br />
+</font>
+</td>
+</tr>
 <td><font face="华文隶书" size="+2"><b>【奖励情况】</b><br />
 ⊙2013-2014学年校优秀学生、优秀团员，校一等奖学金：<br />
  ⊙2015-2016学年校优秀学生、系优秀团员，校一等奖学金：<br /> 
 ⊙2015年全国大学生数学建模竞赛省二等奖;<br />
 ⊙2014-2015学年宿舍获得校文明宿舍、温馨宿舍。<br />
-</font>
-</td>
-</tr>
-<tr>
-<td><font face="华文隶书" size="+2"><b>【参加的大型活动】</b><br />
-⊙2015年全国大学生数学建模比赛<br />
-⊙2015年校消防运动会<br />
-⊙2015年全国大学生创新创业竞赛<br />
 </font>
 </td>
 </tr>
