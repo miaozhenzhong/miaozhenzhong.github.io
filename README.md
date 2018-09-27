@@ -93,7 +93,5 @@ QQ：1635235014<br /><br />
 <tr>
 <td align="right" valign="bottom"><font face="华文隶书" size="+1">（简历到此结束，感谢您阅览，祝您心情愉快！）</font></td>
 </tr><br />
-
-
 </table>
 <a href="#top">返回顶端</a>
